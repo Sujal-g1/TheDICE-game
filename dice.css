@@ -1,0 +1,30 @@
+*{
+    background:rgb(52, 50, 50);
+    text-align: center;
+   
+}
+h1
+{
+    color: aqua;
+    font-size: 6rem;
+    text-align: center;
+    font-family:Noto Serif Old Uyghur;
+}
+.dice
+{
+    
+    color:aqua;
+    display: inline-block;
+    font-size: 25px;
+    font-family: cursive;
+    
+
+}
+
+.img1
+{
+    display: block;
+    width: 40%;
+    margin-left: 80px;
+    margin-top: 20px;
+}
